@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{84EC257E-486C-44F7-B152-FC063C523C76}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.SeniorLiving PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeniorLiving/Tests.cs">
+    <Files>
+      <File FileName="SeniorLiving/Tests.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
